@@ -13,3 +13,6 @@ Roadmap
 Future ideas include:
 Adding some facial features
 Adding a thought bubble when the move scrolls over the face to say "that tickles!"
+
+LICENSE INFORMATION
+MIT License
